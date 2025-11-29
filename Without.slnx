@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Without.Analyzers/Without.Analyzers.csproj" />
+  <Project Path="Without.Sandbox/Without.Sandbox.vbproj" />
+</Solution>
